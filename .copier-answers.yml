@@ -7,7 +7,7 @@ description: 'Modules that extend odoo for common needs of ADHOC Customers
     '
 is_private: false
 name: ADHOC Odoo Accountant Financial Tools and Utils
-odoo_version: 18.0
+odoo_version: 19.0
 pre_commit_ignore: []
 slug: ''
 
